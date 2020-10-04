@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio Pages
 
-You can use the [editor on GitHub](https://github.com/imaduddinharis/my-resources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use [this template](https://github.com/imaduddinharis/portfolio) to learn or modify for your project.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imaduddinharis/my-resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I am a software engineer since 2015. working on several projects from small to large scale, for various industrial sectors such as logistics, education, advertising, etc.
+I also like to explore new things so that they can be applied in both work and daily life
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have an attractive offer?, you can contact me on:
+[linkedin](https://linkedin.com/in/imaduddin-haris-nasution)
+[instagram](https://instagram.com/duds_hn)
+[email](mailto:imaduddinhariss@gmail.com)
