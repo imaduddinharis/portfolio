@@ -14,4 +14,4 @@ Have an attractive offer?, you can contact me on:\
 [email](mailto:imaduddinhariss@gmail.com)
 
 ### My Personal Website
-[Duds HN - Personal Website](https://bit.ly/duds-website){:target:"_blank"}
+[Duds HN - Personal Website](https://bit.ly/duds-website)
