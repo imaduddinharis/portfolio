@@ -9,6 +9,6 @@ I also like to explore new things so that they can be applied in both work and d
 
 ### Support or Contact
 Have an attractive offer?, you can contact me on:
-[linkedin](https://linkedin.com/in/imaduddin-haris-nasution)
-[instagram](https://instagram.com/duds_hn)
-[email](mailto:imaduddinhariss@gmail.com)
+[linkedin](https://linkedin.com/in/imaduddin-haris-nasution)\
+[instagram](https://instagram.com/duds_hn)\
+[email](mailto:imaduddinhariss@gmail.com)\
