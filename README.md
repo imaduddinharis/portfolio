@@ -12,3 +12,6 @@ Have an attractive offer?, you can contact me on:\
 [linkedin](https://linkedin.com/in/imaduddin-haris-nasution)\
 [instagram](https://instagram.com/duds_hn)\
 [email](mailto:imaduddinhariss@gmail.com)
+
+### My Personal Website
+[Duds HN - Personal Website](https://bit.ly/duds-website)
