@@ -8,7 +8,7 @@ I am a software engineer since 2015. working on several projects from small to l
 I also like to explore new things so that they can be applied in both work and daily life
 
 ### Support or Contact
-Have an attractive offer?, you can contact me on:
+Have an attractive offer?, you can contact me on:\
 [linkedin](https://linkedin.com/in/imaduddin-haris-nasution)\
 [instagram](https://instagram.com/duds_hn)\
-[email](mailto:imaduddinhariss@gmail.com)\
+[email](mailto:imaduddinhariss@gmail.com)
