@@ -10,7 +10,9 @@ exports.index = function (req, res) {
 exports.users = function (req, res) {
   connection.query("select * from person", function (error, rows, fields) {
     if (error) {
-      console.log(error);
+      return res.status(400).send({
+        message: error,
+      });
     } else {
       response.ok(rows, res);
     }
@@ -25,7 +27,9 @@ exports.findUsers = function (req, res) {
     fields
   ) {
     if (error) {
-      console.log(error);
+      return res.status(400).send({
+        message: error,
+      });
     } else {
       response.ok(rows, res);
     }
@@ -41,7 +45,9 @@ exports.createUsers = function (req, res) {
     [firstName, lastName],
     function (error, rows, fields) {
       if (error) {
-        console.log(error);
+        return res.status(400).send({
+          message: error,
+        });
       } else {
         response.ok("Success", res);
       }
@@ -59,7 +65,9 @@ exports.updateUsers = function (req, res) {
     [firstName, lastName, userId],
     function (error, rows, fields) {
       if (error) {
-        console.log(error);
+        return res.status(400).send({
+          message: error,
+        });
       } else {
         response.ok("Success", res);
       }
@@ -67,16 +75,22 @@ exports.updateUsers = function (req, res) {
   );
 };
 
-exports.deleteUsers = function(req, res){
-    var userId = req.body.user_id;
+exports.deleteUsers = function (req, res) {
+  var userId = req.body.user_id;
+  console.log(req.params.user_id);
 
-    connection.query('delete from person where id = ?',
-    [userId],
-    function(error,rows,fields){
-        if(error){
-            console.log(error)
-        }else{
-            response.ok("Success", res)
-        }
-    });
-}
+  connection.query("delete from person where id = ?", [userId], function (
+    err,
+    results
+  ) {
+    if (err) {
+      return res.status(400).send({
+        message: err,
+      });
+    } else {
+      (!results.affectedRows) ? response.ok("Failed", res) :response.ok("Success", res);
+    }
+  });
+};
+
+
